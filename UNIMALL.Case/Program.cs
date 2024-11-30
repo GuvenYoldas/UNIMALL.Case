@@ -8,7 +8,7 @@ using RestSharp;
 class Program
 {
     // OpenAI API anahtar tanımım
-    public static string openAiApiKey = "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";
+    public static string openAiApiKey = "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";
     static async Task Main(string[] args)
     {
         // Ekrana basacağım objem.
